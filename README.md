@@ -14,4 +14,3 @@
 I don't own the photos used in this site. Starbucks Coffee Company has all images right reserved
 
 Swiper JS https://swiperjs.com/ and Scroll Reveal https://scrollrevealjs.org/ API used with Box Icons https://boxicons.com/ 
-# Starbucks-Redesign

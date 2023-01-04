@@ -1,5 +1,5 @@
 # Responsive StarBucks Redesign Website
-## [See Live Preview]()
+## [See Live Preview](https://starbucks-redesign-vishrut.netlify.app/)
 ### Responsive StarBucks Redesign Website
 
 - Starbucks Redesign built using HTML, CSS & JAVASCRIPT.
